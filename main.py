@@ -1,1 +1,4 @@
-print('Hello world')
+name = "Sergio"
+age = 58
+
+print(f"")
